@@ -2,9 +2,9 @@ class School
   def inititalize(name)
     @name = name
     @roster = {}
-  end 
+  end
 
-  def roster 
-    @roster 
+  def roster
+    @roster
   end 
 end
